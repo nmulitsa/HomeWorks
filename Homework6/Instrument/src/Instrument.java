@@ -1,4 +1,4 @@
-public interface Instrument {
+ public interface Instrument {
     String KEY ="До мажор";
 
     void play();
